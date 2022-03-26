@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionClasses", "GestionClasses\GestionClasses.csproj", "{9ACDB5D9-8E75-45C6-89CE-03B50CDF21D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GestionClasseDalyAmira", "..\GestionClasseDalyAmira\GestionClasseDalyAmira\GestionClasseDalyAmira.csproj", "{5C4BFA24-16A5-4E25-BA6E-B7138B839C1C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9ACDB5D9-8E75-45C6-89CE-03B50CDF21D3}.Debug|x86.ActiveCfg = Debug|x86
+		{9ACDB5D9-8E75-45C6-89CE-03B50CDF21D3}.Debug|x86.Build.0 = Debug|x86
+		{9ACDB5D9-8E75-45C6-89CE-03B50CDF21D3}.Release|x86.ActiveCfg = Release|x86
+		{9ACDB5D9-8E75-45C6-89CE-03B50CDF21D3}.Release|x86.Build.0 = Release|x86
+		{5C4BFA24-16A5-4E25-BA6E-B7138B839C1C}.Debug|x86.ActiveCfg = Debug|x86
+		{5C4BFA24-16A5-4E25-BA6E-B7138B839C1C}.Debug|x86.Build.0 = Debug|x86
+		{5C4BFA24-16A5-4E25-BA6E-B7138B839C1C}.Release|x86.ActiveCfg = Release|x86
+		{5C4BFA24-16A5-4E25-BA6E-B7138B839C1C}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

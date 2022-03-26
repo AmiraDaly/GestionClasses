@@ -1,0 +1,11 @@
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\bin\Release\GestionClasses.exe
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\bin\Release\GestionClasses.pdb
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.csprojResolveAssemblyReference.cache
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.Ajouter.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.GestionClasses.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.Modifier.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.Properties.Resources.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.Supprimer.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.csproj.GenerateResource.Cache
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.exe
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Release\GestionClasses.pdb

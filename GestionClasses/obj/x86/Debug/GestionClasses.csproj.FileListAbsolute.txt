@@ -1,0 +1,18 @@
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\bin\Debug\GestionClasses.exe
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\bin\Debug\GestionClasses.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\obj\x86\Debug\GestionClasses.Properties.Resources.resources
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\obj\x86\Debug\GestionClasses.csproj.GenerateResource.Cache
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\obj\x86\Debug\GestionClasses.exe
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\obj\x86\Debug\GestionClasses.pdb
+C:\Users\acer\AppData\Local\Temporary Projects\GestionClasses\obj\x86\Debug\GestionClasses.GestionClasses.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.exe
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.pdb
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\bin\Debug\GestionClasses.exe
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\bin\Debug\GestionClasses.pdb
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.Ajouter.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.GestionClasses.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.Modifier.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.Properties.Resources.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.csproj.GenerateResource.Cache
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.Supprimer.resources
+D:\Workspace_Net\Atelier\GestionClasses\GestionClasses\obj\x86\Debug\GestionClasses.csprojResolveAssemblyReference.cache
